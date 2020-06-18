@@ -338,7 +338,7 @@ if (Role.comparePositions(message.member.roles.highest, message.guild.me.roles.h
 });
 
 
-client.login("NzA3MTg2MjkxODkyMDI3NDcy.XrGiJA.gvSIcY-5w9ipaXxERm4TU9OA57I");
+client.login("");
 
 
 
