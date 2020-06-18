@@ -1,0 +1,22 @@
+{
+  "name": "3rb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date": "^1.0.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.1",
+    "memes-random": "^2.3.5",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "random-text-meme": "^1.1.9",
+    "ytdl-core": "^2.1.2"
+  }
+}
